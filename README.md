@@ -1,4 +1,4 @@
 git-publish-http
 ================
 
-A helper for using git-publish in an HTTP server.
+A helper for using git-publisher in an HTTP server.
