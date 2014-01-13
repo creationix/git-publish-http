@@ -1,6 +1,6 @@
 {
   "name": "git-publish-http",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A helper for using git-publisher in an HTTP server.",
   "main": "serve.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/creationix/git-publish-http/issues"
   },
-  "homepage": "https://github.com/creationix/git-publish-http"
+  "homepage": "https://github.com/creationix/git-publish-http",
+  "dependencies": {
+    "simple-mime": "~0.0.8"
+  }
 }
