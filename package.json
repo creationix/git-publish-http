@@ -1,0 +1,23 @@
+{
+  "name": "git-publish-http",
+  "version": "0.0.0",
+  "description": "A helper for using git-publisher in an HTTP server.",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creationix/git-publish-http.git"
+  },
+  "keywords": [
+    "js-git",
+    "git-publisher"
+  ],
+  "author": "Tim Caswell <tim@creationix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creationix/git-publish-http/issues"
+  },
+  "homepage": "https://github.com/creationix/git-publish-http"
+}
